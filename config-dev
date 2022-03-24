@@ -1,4 +1,4 @@
 config:
-  branch：master
+  branch：test
   type: dev
   version: 1
