@@ -1,0 +1,4 @@
+config:
+  branch：master
+  type: test
+  version: 1
