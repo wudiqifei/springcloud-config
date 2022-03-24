@@ -1,3 +1,4 @@
 config:
+  branch：master
   type: dev
   version: 1
