@@ -1,0 +1,4 @@
+config:
+  branch：master
+  type: prod
+  version: 1
