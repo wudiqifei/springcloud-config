@@ -1,0 +1,3 @@
+config:
+  type: test
+  version: 1
